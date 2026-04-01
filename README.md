@@ -1,5 +1,5 @@
 # Gym Tracker
-
+A basic gym tracker app, built as a 'Maximum 10 prompts' vibe-coding challenge, that lacks frontend but actually can log workouts, gym sessions and metrics on Supabase
 This project implements a gym tracker MVP with:
 
 - `frontend/`: Next.js app
