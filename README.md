@@ -2,8 +2,8 @@
 
 This project implements a gym tracker MVP with:
 
-- `frontend/`: Next.js app (deploy to Vercel)
-- `backend/`: FastAPI service (deploy to Railway)
+- `frontend/`: Next.js app
+- `backend/`: FastAPI
 - `frontend/supabase/migrations/`: Supabase schema + RLS migration
 
 ## 1) Supabase setup
