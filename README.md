@@ -1,4 +1,4 @@
-# Gym Tracker Monorepo
+# Gym Tracker
 
 This project implements a gym tracker MVP with:
 
@@ -45,13 +45,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## 4) Deploy
-
-- Vercel: import `frontend` directory as project root.
-- Railway: import `backend` directory as project root.
-- Set matching environment variables in both platforms.
-
-## 5) MVP Features
+## 4) MVP Features
 
 - Supabase auth + profiles
 - Workout logging (FastAPI endpoint)
